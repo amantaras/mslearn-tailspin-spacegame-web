@@ -6,6 +6,8 @@ pool:
   demands:
     - npm
 
+    # this is single line comment.
+
 variables:
   buildConfiguration: 'Release'
   wwwrootDir: 'Tailspin.SpaceGame.Web/wwwroot'
